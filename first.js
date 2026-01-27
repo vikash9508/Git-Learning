@@ -8,3 +8,6 @@ const footer = "footer added in our website";
 console.log(footer);
 const payment ="Integrated the payment gateway";
 console.log(Payment);
+
+const upi ="Integrated the UPI";
+console.log(upi);
